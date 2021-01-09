@@ -1,0 +1,14 @@
+{
+  "name": "reference",
+  "version": "1.0.0",
+  "description": "[블로그](https://blog.naver.com/pjt3591oo/222201718116)",
+  "main": "arr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
