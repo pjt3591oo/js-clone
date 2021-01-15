@@ -7,7 +7,7 @@
 3. array 이용 객체생성 (arr.js)
 
 4. 객체예시 (monster.js)
-5. 실수 (misstake.js)
+5. 실수 (mistake.js)
 
 5. 네스트 된 객체 얕은복사 (nestting.js)
 6. 네스트 된 객체 깊은복사 (nestting1.js)
